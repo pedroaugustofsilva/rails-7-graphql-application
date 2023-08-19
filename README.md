@@ -1,0 +1,2 @@
+# Rails GraphQL Example
+
